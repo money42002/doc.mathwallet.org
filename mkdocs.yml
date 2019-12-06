@@ -31,6 +31,7 @@ pages:
         - Telos: en/telos.md
         - NEO: en/neo.md
         - VeChain: en/vechain.md
+        - CoinEx: en/coinex.md
         - More: en/more.md
     - 中文:
         - BTC: cn/btc.md
@@ -51,6 +52,7 @@ pages:
         - Telos: cn/telos.md
         - NEO: cn/neo.md
         - VeChain: cn/vechain.md
+        - CoinEx: cn/coinex.md
         - 更多问题: cn/more.md
 
 plugins:
