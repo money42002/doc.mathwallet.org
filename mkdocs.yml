@@ -17,6 +17,7 @@ pages:
         - ETH: en/eth.md
         - EOS: en/eos.md
         - Polkadot: en/polkadot.md
+        - Kusama: en/kusama.md
         - TRON: en/tron.md
         - Binance: en/binance.md
         - Cosmos: en/cosmos.md
@@ -24,6 +25,7 @@ pages:
         - Ontology: en/ont.md
         - ChainX: en/chainx.md
         - EOSC: en/eosforce.md
+        - YAS: en/yas.md
         - Harmony: en/harmony.md
         - Enigma: en/enigma.md
         - ENU: en/enu.md
@@ -38,6 +40,7 @@ pages:
         - ETH: cn/eth.md
         - EOS: cn/eos.md
         - Polkadot: cn/polkadot.md
+        - Kusama: cn/kusama.md
         - TRON: cn/tron.md
         - Binance: cn/binance.md
         - Cosmos: cn/cosmos.md
@@ -45,6 +48,7 @@ pages:
         - Ontology: cn/ont.md
         - ChainX: cn/chainx.md
         - EOSC: cn/eosforce.md
+        - YAS: cn/yas.md
         - Harmony: cn/harmony.md
         - Enigma: cn/enigma.md
         - ENU: cn/enu.md
