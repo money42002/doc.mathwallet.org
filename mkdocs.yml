@@ -21,6 +21,7 @@ pages:
         - TRON: en/tron.md
         - Binance: en/binance.md
         - Cosmos: en/cosmos.md
+        - Nervos: en/nervos.md
         - Kava: en/kava.md
         - IRISnet: en/iris.md
         - Ontology: en/ont.md
@@ -45,6 +46,7 @@ pages:
         - TRON: cn/tron.md
         - Binance: cn/binance.md
         - Cosmos: cn/cosmos.md
+        - Nervos: cn/nervos.md
         - Kava: cn/kava.md
         - IRISnet: cn/iris.md
         - Ontology: cn/ont.md
