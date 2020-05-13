@@ -60,13 +60,23 @@ var getNavLanguage = function(){
 
 ### Q. Does MathWallet support DeepLink?
 
-Yes. Sample URL below, change the dappUrl param as you need:
+
+Yes. Sample URL below, change the value param as you need:
+
+```
+mathwallet://mathwallet.org?action=link&value=http://dapp.mathwallet.xyz/polkadot/#/kusama
+```
+
+
+### Q. Does MathWallet support APP to APP DeepLink?
+
+Yes. Sample URL below, change the dappUrl param as you need and the blockchain param as well:
 
 ```
 mathwallet://mathwallet.org?param={"action":"openUrl","protocol":"SimpleWallet","dappUrl":"https:\/\/gateway.eosdt.com\/","dappName":"MathWalletSDK-Demos","blockchain":"eosio","version":"1.0","callback":"mathwalletdemos:\/\/mathwalletsdk?action=openUrl","desc":"","dappIcon":""}
 ```
 
-Currently Deeplink only supports Ethereum, EOS, EOS Force, TRON
+Currently this methods only supports blockchain: eosio, ethereum, tron
 
 callback is the URL after MathWallet completed the transaction will open, such as：
 appABC://abc.com?action=openUrl&result=1

@@ -61,13 +61,22 @@ var getNavLanguage = function(){
 
 ### Q: 如何通过网页打开麦子钱包，并跳转到 DAPP 页面？
 
-你可以使用 Deeplink，示例URL代码如下，修改 dappUrl 为你希望跳转的地址即可：
+你可以使用 Deeplink，示例URL代码如下，修改 value 为你希望跳转的地址即可：
+
+```
+mathwallet://mathwallet.org?action=link&value=http://dapp.mathwallet.xyz/polkadot/#/kusama
+```
+
+
+### Q: 如何通过APP打开麦子钱包，跳转到 DAPP 页面，完成操作后回调？
+
+你可以使用 Deeplink，示例URL代码如下，修改 dappUrl 为你希望跳转的地址和 blockchain 参数即可：
 
 ```
 mathwallet://mathwallet.org?param={"action":"openUrl","protocol":"SimpleWallet","dappUrl":"https:\/\/gateway.eosdt.com\/","dappName":"MathWalletSDK-Demos","blockchain":"eosio","version":"1.0","callback":"appABC:\/\/abc.com?action=openUrl","desc":"","dappIcon":""}
 ```
 
-目前 Deeplink 仅支持 Ethereum、EOS、EOS Force、TRON
+目前这种APP间跳转仅支持 blockchain: eosio, ethereum, tron
 
 callback 会在支付成功后跳转并带上相应参数，例如：
 appABC://abc.com?action=openUrl&result=1
