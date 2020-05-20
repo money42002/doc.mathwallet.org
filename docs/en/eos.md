@@ -8,9 +8,9 @@ Math Wallet is compatiable with Scatter API.
 
 ScatterJS is really universal that could not only be used with [MathWallet Chrome Extension](https://chrome.google.com/webstore/detail/math-wallet/afbcbjpbpfadlkmhmclhkeeodmamcflc) on desktop but also could be used directly inside mobile terminal such as Math Wallet with just one set of code. By the way, it would be much easier to debug on desktop during development.
 
-#### Scatter API Official Doc
+#### API Doc
 
-[https://get-scatter.com/docs/setting-up-for-web-apps](https://get-scatter.com/docs/setting-up-for-web-apps)
+[https://github.com/mathwallet/math-eosjs](https://github.com/mathwallet/math-eosjs)
 
 #### Scatter API Demo Projects
 
