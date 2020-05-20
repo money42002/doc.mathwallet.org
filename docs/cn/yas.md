@@ -8,9 +8,9 @@
 
 Scatter接口的优点是通用性好，除了移动端在麦子钱包内直接使用，桌面端可以配合 [MathWallet Chrome浏览器](https://chrome.google.com/webstore/detail/math-wallet/afbcbjpbpfadlkmhmclhkeeodmamcflc) 使用，一套代码即可，另外开发时在桌面端比较容易调试。
 
-#### Scatter API 官方文档
+#### API 文档
 
-[https://get-scatter.com/docs/setting-up-for-web-apps](https://get-scatter.com/docs/setting-up-for-web-apps)
+[https://github.com/mathwallet/math-eosjs](https://github.com/mathwallet/math-eosjs)
 
 #### Scatter API 开发示例
 
