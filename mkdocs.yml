@@ -22,6 +22,7 @@ pages:
         - Binance: en/binance.md
         - Cosmos: en/cosmos.md
         - Nervos: en/nervos.md
+        - Near: en/near.md
         - Kava: en/kava.md
         - IRISnet: en/iris.md
         - Ontology: en/ont.md
@@ -47,6 +48,7 @@ pages:
         - Binance: cn/binance.md
         - Cosmos: cn/cosmos.md
         - Nervos: cn/nervos.md
+        - Near: cn/near.md
         - Kava: cn/kava.md
         - IRISnet: cn/iris.md
         - Ontology: cn/ont.md
