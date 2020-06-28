@@ -32,6 +32,7 @@ pages:
         - YAS: en/yas.md
         - Harmony: en/harmony.md
         - Enigma: en/enigma.md
+        - Secret: en/secret.md
         - ENU: en/enu.md
         - BOS: en/bos.md
         - Telos: en/telos.md
@@ -59,6 +60,7 @@ pages:
         - YAS: cn/yas.md
         - Harmony: cn/harmony.md
         - Enigma: cn/enigma.md
+        - Secret: cn/secret.md
         - ENU: cn/enu.md
         - BOS: cn/bos.md
         - Telos: cn/telos.md
