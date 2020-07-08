@@ -17,10 +17,12 @@ pages:
         - ETH: en/eth.md
         - EOS: en/eos.md
         - Polkadot: en/polkadot.md
+        - Filecoin: en/filecoin.md
         - Kusama: en/kusama.md
         - TRON: en/tron.md
         - Binance: en/binance.md
-        - BSC: en/bsc.md
+        - BinanceSmart: en/bsc.md
+        - OKchain: en/okchain.md
         - Cosmos: en/cosmos.md
         - Nervos: en/nervos.md
         - Near: en/near.md
@@ -31,8 +33,8 @@ pages:
         - EOSC: en/eosforce.md
         - YAS: en/yas.md
         - Harmony: en/harmony.md
-        - Enigma: en/enigma.md
-        - Secret: en/secret.md
+        - SecretNetwork: en/secret.md
+        - RSK: en/rsk.md
         - ENU: en/enu.md
         - BOS: en/bos.md
         - Telos: en/telos.md
@@ -45,10 +47,12 @@ pages:
         - ETH: cn/eth.md
         - EOS: cn/eos.md
         - Polkadot: cn/polkadot.md
+        - Filecoin: cn/filecoin.md
         - Kusama: cn/kusama.md
         - TRON: cn/tron.md
         - Binance: cn/binance.md
-        - BSC: cn/bsc.md
+        - BinanceSmart: cn/bsc.md
+        - OKchain: cn/okchain.md
         - Cosmos: cn/cosmos.md
         - Nervos: cn/nervos.md
         - Near: cn/near.md
@@ -59,8 +63,8 @@ pages:
         - EOSC: cn/eosforce.md
         - YAS: cn/yas.md
         - Harmony: cn/harmony.md
-        - Enigma: cn/enigma.md
-        - Secret: cn/secret.md
+        - SecretNetwork: cn/secret.md
+        - RSK: cn/rsk.md
         - ENU: cn/enu.md
         - BOS: cn/bos.md
         - Telos: cn/telos.md
