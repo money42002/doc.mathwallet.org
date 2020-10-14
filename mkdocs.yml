@@ -22,6 +22,7 @@ pages:
         - TRON: en/tron.md
         - Binance: en/binance.md
         - BinanceSmart: en/bsc.md
+        - Solana: en/solana.md
         - OKchain: en/okchain.md
         - Cosmos: en/cosmos.md
         - Nervos: en/nervos.md
@@ -52,6 +53,7 @@ pages:
         - TRON: cn/tron.md
         - Binance: cn/binance.md
         - BinanceSmart: cn/bsc.md
+        - Solana: cn/solana.md
         - OKchain: cn/okchain.md
         - Cosmos: cn/cosmos.md
         - Nervos: cn/nervos.md

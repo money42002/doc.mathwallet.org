@@ -9,3 +9,8 @@
 ### MathExtension API (Sign Transactions)
 
 [https://github.com/mathwallet/math-nearjs](https://github.com/mathwallet/math-nearjs)
+
+### Demo Projects
+
+[https://github.com/mathwallet/near-staking-tool](https://github.com/mathwallet/near-staking-tool)
+

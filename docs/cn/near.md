@@ -11,3 +11,7 @@
 使用麦子钱包的 MathExtension API 进行支付和合约调用的签名操作
 
 [https://github.com/mathwallet/math-nearjs](https://github.com/mathwallet/math-nearjs)
+
+### 示例项目
+
+[https://github.com/mathwallet/near-staking-tool](https://github.com/mathwallet/near-staking-tool)
