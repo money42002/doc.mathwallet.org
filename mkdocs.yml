@@ -21,7 +21,7 @@ pages:
         - Kusama: en/kusama.md
         - TRON: en/tron.md
         - Binance: en/binance.md
-        - BinanceSmart: en/bsc.md
+        - BSC: en/bsc.md
         - Solana: en/solana.md
         - OKchain: en/okchain.md
         - Cosmos: en/cosmos.md
@@ -52,7 +52,7 @@ pages:
         - Kusama: cn/kusama.md
         - TRON: cn/tron.md
         - Binance: cn/binance.md
-        - BinanceSmart: cn/bsc.md
+        - BSC: cn/bsc.md
         - Solana: cn/solana.md
         - OKchain: cn/okchain.md
         - Cosmos: cn/cosmos.md

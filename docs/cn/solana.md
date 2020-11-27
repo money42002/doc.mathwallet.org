@@ -15,3 +15,5 @@
 ### 示例项目
 
 [https://projectserum.com/developer-resources](https://projectserum.com/developer-resources)
+
+[如何在DApp中加入各种钱包登录的入口](http://blog.mathwallet.org/?p=2431)

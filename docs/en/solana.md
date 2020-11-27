@@ -13,3 +13,5 @@
 ### Demo Projects
 
 [https://projectserum.com/developer-resources](https://projectserum.com/developer-resources)
+
+[Add wallets selection in DApp](http://blog.mathwallet.org/?p=2431)
