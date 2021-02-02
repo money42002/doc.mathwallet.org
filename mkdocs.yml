@@ -88,7 +88,7 @@ theme:
 extra:
   manifest: 'manifest.webmanifest'
   social:
-    - type: 'github'
+    - icon: fontawesome/brands/github-alt
       link: 'https://github.com/mathwallet'
-    - type: 'twitter'
+    - icon: fontawesome/brands/twitter
       link: 'https://twitter.com/mathwallet'
