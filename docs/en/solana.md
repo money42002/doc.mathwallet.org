@@ -12,7 +12,7 @@
 
 ### Add MathWallet Support (SerumDex as example)
 
-[https://github.com/project-serum/serum-dex-ui/pull/63](https://github.com/project-serum/serum-dex-ui/pull/63)
+[https://github.com/project-serum/serum-dex-ui/pull/63/files](https://github.com/project-serum/serum-dex-ui/pull/63/files)
 
 ### Demo Projects
 
