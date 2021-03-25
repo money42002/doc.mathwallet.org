@@ -10,8 +10,11 @@
 
 [https://github.com/project-serum/sol-wallet-adapter](https://github.com/project-serum/sol-wallet-adapter)
 
+### Add MathWallet Support (SerumDex as example)
+
+[https://github.com/project-serum/serum-dex-ui/pull/63/files](https://github.com/project-serum/serum-dex-ui/pull/63/files)
+
 ### Demo Projects
 
 [https://projectserum.com/developer-resources](https://projectserum.com/developer-resources)
 
-[Add wallets selection in DApp](http://blog.mathwallet.org/?p=2431)

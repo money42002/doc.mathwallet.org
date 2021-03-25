@@ -12,8 +12,9 @@
 
 [https://github.com/project-serum/sol-wallet-adapter](https://github.com/project-serum/sol-wallet-adapter)
 
+### 支持 MathWallet 的代码 (使用 SerumDex 为例)
+[https://github.com/project-serum/serum-dex-ui/pull/63/files](https://github.com/project-serum/serum-dex-ui/pull/63/files)
+
 ### 示例项目
 
 [https://projectserum.com/developer-resources](https://projectserum.com/developer-resources)
-
-[如何在DApp中加入各种钱包登录的入口](http://blog.mathwallet.org/?p=2431)
