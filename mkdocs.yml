@@ -27,6 +27,7 @@ pages:
         - Cosmos: en/cosmos.md
         - Nervos: en/nervos.md
         - Near: en/near.md
+        - Terra: en/terra.md
         - Kava: en/kava.md
         - IRISnet: en/iris.md
         - Ontology: en/ont.md
@@ -58,6 +59,7 @@ pages:
         - Cosmos: cn/cosmos.md
         - Nervos: cn/nervos.md
         - Near: cn/near.md
+        - Terra: cn/terra.md
         - Kava: cn/kava.md
         - IRISnet: cn/iris.md
         - Ontology: cn/ont.md
