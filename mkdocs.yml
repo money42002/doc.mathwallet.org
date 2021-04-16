@@ -43,6 +43,8 @@ pages:
         - NEO: en/neo.md
         - VeChain: en/vechain.md
         - CoinEx: en/coinex.md
+        - Conflux: en/conflux.md
+        - PlatON: en/platon.md
         - More: en/more.md
     - 中文:
         - BTC: cn/btc.md
@@ -75,6 +77,8 @@ pages:
         - NEO: cn/neo.md
         - VeChain: cn/vechain.md
         - CoinEx: cn/coinex.md
+        - Conflux: cn/conflux.md
+        - PlatON: cn/platon.md
         - 更多问题: cn/more.md
 
 plugins:
