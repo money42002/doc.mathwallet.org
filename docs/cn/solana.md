@@ -8,11 +8,20 @@
 
 ### 登录和签名操作的接口
 
-使用麦子钱包的 MathExtension API 进行支付和合约调用的签名操作
-
 [https://github.com/project-serum/sol-wallet-adapter](https://github.com/project-serum/sol-wallet-adapter)
 
-### 支持 MathWallet 的代码 (使用 SerumDex 为例)
+Sample:
+
+[https://github.com/project-serum/oyster-swap/blob/master/src/context/wallet.tsx](https://github.com/project-serum/oyster-swap/blob/master/src/context/wallet.tsx)
+
+### 添加 MathWallet 适配的代码
+
+SerumSwap Sample
+
+[https://github.com/project-serum/oyster-swap/blob/master/src/wallet-adapters/math/index.tsx](https://github.com/project-serum/oyster-swap/blob/master/src/wallet-adapters/math/index.tsx)
+
+SerumDex Sample
+
 [https://github.com/project-serum/serum-dex-ui/pull/63/files](https://github.com/project-serum/serum-dex-ui/pull/63/files)
 
 ### 示例项目
