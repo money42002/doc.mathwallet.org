@@ -8,6 +8,8 @@ Also please remember to submit your dApp to us when it is ready: [https://m.maiz
 
 Any questions, please contact labs@mathwallet.org
 
+MathWallet Logos: [http://blog.mathwallet.org/?p=396](http://blog.mathwallet.org/?p=396)
+
 ---
 
 # 从这里开始
@@ -20,11 +22,7 @@ Any questions, please contact labs@mathwallet.org
 
 有问题，欢迎邮件联系 labs@mathwallet.org
 
----
-
-# 시작하기
-
-Math Wallet 은 가장 안전하고 강력한 다중체인 모바일 지갑으로서 EOS、TRON、BTC、ETH、NEO、ONT、EOSC、ESN、COSMOS、Polkadot 생태계를 완벽하게 지원합니다. 또한 탈중앙화 기반으로 체인-체인 간의 거래를 지원하며, 다중체인 DApp 생태계를 완벽하게 구축하였습니다.
+麦子钱包图标：[https://blog.mathwallet.xyz/?p=1707](https://blog.mathwallet.xyz/?p=1707)
 
 ---
 
