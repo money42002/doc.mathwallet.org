@@ -2,7 +2,21 @@
 
 ### Q. How to know whether the address is opened by the dapp browser of Math Wallet ?
 
-If there’s “MdsApp” in useragent, then it is visited by the browser of Math Wallet.
+There are 2 ways:
+
+1 Lookup Http Header:
+If there’s “MathWallet” in User-Agent in HTTP Header, then it is visited by the browser of Math Wallet. (User-Agent: MathWallet)
+
+2 Lookup injected js:
+
+For ETH(BSC/Heco/Polygon and other EVM based), check ethereum.isMathWallet = true
+![eth](http://qiniu.eth.fm/2021-07-28-eth.png)
+
+For Polkadot(Kusama/Statemine and other substrate based), check injectedWeb3.mathwallet
+![dot](http://qiniu.eth.fm/2021-07-28-dot.png)
+
+For Solana, check solana.isMathWallet = true
+![solana](http://qiniu.eth.fm/2021-07-28-solana.png)
 
 ### Q. How to get more current wallet information, such as orientation / language / fullscreen, etc?
 
