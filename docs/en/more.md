@@ -5,6 +5,7 @@
 There are 2 ways:
 
 1 Lookup Http Header:
+
 If there’s “MathWallet” in User-Agent in HTTP Header, then it is visited by the browser of Math Wallet. (User-Agent: MathWallet)
 
 2 Lookup injected js:
