@@ -1,10 +1,10 @@
 # Getting Started
 
-Math Wallet is a powerful universal crypto wallet which support multi-chain tokens and dApps on both mobile / browser extension / web / hardware wallet.
+MathWallet is a powerful universal crypto wallet which support multi-chain tokens and dApps on both mobile / browser extension / web / hardware wallet.
 
 Choose the chain to start intergrate your dApp to MathWallet.
 
-If the user has MetaMask installed [https://doc.mathwallet.org/en/more/](https://doc.mathwallet.org/en/more/)
+If the user has MathWallet installed [https://doc.mathwallet.org/en/more/](https://doc.mathwallet.org/en/more/)
 
 Any questions, please contact labs@mathwallet.org
 
@@ -22,7 +22,7 @@ MathWallet Logos: [http://blog.mathwallet.org/?p=396](http://blog.mathwallet.org
 
 选择你正在开发的DApp的公链，查看详细如何介入麦子钱包的文档。
 
-MathWallet的DApp浏览器环境检查：[https://doc.mathwallet.org/cn/more/](https://doc.mathwallet.org/cn/more/)
+麦子钱包的DApp浏览器环境检查：[https://doc.mathwallet.org/cn/more/](https://doc.mathwallet.org/cn/more/)
 
 有问题，欢迎邮件联系 labs@mathwallet.org
 
