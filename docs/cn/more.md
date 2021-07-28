@@ -2,7 +2,25 @@
 
 ### Q 怎么判断是否通过麦子dapp浏览器打开的链接？
 
-useragent 里面如果有 MdsApp，表示是麦子钱包的浏览器访问
+一般有两种方式
+
+1. 查询 HTTP Header 的 User-Agent
+
+HTTP Header 的 User-Agent 里面如果有 “MathWallet”，表示是麦子钱包的浏览器访问 (User-Agent: MathWallet)
+
+2. 查询注入的 JS
+
+以太坊系 ETH(BSC/Heco/Polygon 以及其它基于 EVM 的链), 检查 ethereum.isMathWallet = true
+
+![eth](http://qiniu.eth.fm/2021-07-28-eth.png)
+
+波卡系 Polkadot(Kusama/Statemine 以及其它基于 substrate 的链), 检查 injectedWeb3.mathwallet
+
+![dot](http://qiniu.eth.fm/2021-07-28-dot.png)
+
+Solana 链, 检查 solana.isMathWallet = true
+
+![solana](http://qiniu.eth.fm/2021-07-28-solana.png)
 
 ### Q: 如何在 DAPP 页面获取钱包信息、全屏、打开微信、横屏、当前语言等信息和操作？
 
