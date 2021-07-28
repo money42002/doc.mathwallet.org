@@ -4,11 +4,11 @@
 
 一般有两种方式
 
-1. 查询 HTTP Header 的 User-Agent
+1 查询 HTTP Header 的 User-Agent
 
 HTTP Header 的 User-Agent 里面如果有 “MathWallet”，表示是麦子钱包的浏览器访问 (User-Agent: MathWallet)
 
-2. 查询注入的 JS
+2 查询注入的 JS
 
 以太坊系 ETH(BSC/Heco/Polygon 以及其它基于 EVM 的链), 检查 ethereum.isMathWallet = true
 
