@@ -4,6 +4,8 @@ Math Wallet is a powerful universal crypto wallet which support multi-chain toke
 
 Choose the chain to start intergrate your dApp to MathWallet.
 
+If the user has MetaMask installed [https://doc.mathwallet.org/en/more/](https://doc.mathwallet.org/en/more/)
+
 Any questions, please contact labs@mathwallet.org
 
 Also please remember to submit your dApp to us when it is ready: [https://m.maiziqianbao.net/submit/dapp](https://m.maiziqianbao.net/submit/dapp)
@@ -19,6 +21,8 @@ MathWallet Logos: [http://blog.mathwallet.org/?p=396](http://blog.mathwallet.org
 麦子钱包是一个安全的多链钱包，同时支持手机端、浏览器插件、网页钱包、硬件钱包，并构建了一个多链的 DApp 生态系统。
 
 选择你正在开发的DApp的公链，查看详细如何介入麦子钱包的文档。
+
+MathWallet的DApp浏览器环境检查：[https://doc.mathwallet.org/cn/more/](https://doc.mathwallet.org/cn/more/)
 
 有问题，欢迎邮件联系 labs@mathwallet.org
 
