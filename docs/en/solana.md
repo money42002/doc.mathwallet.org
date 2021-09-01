@@ -30,5 +30,11 @@ Changes Sample
 
 [https://github.com/project-serum/serum-dex-ui/pull/63/files](https://github.com/project-serum/serum-dex-ui/pull/63/files)
 
+Common errors in wallet.tsx config
+
+![mathso](http://qiniu.eth.fm/2021-09-01-mathsol1.jpg)
+
+![mathso](http://qiniu.eth.fm/2021-09-01-mathsol2.jpg)
+
 
 
