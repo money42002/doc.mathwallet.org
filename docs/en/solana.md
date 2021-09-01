@@ -10,6 +10,10 @@
 
 [https://github.com/project-serum/sol-wallet-adapter](https://github.com/project-serum/sol-wallet-adapter)
 
+### Web3 JS (create transactions in frontend)
+
+[https://github.com/solana-labs/solana-web3.js](https://github.com/solana-labs/solana-web3.js)
+
 ### Connect to Wallet UI samples
 
 [https://github.com/project-serum/serum-dex-ui](https://github.com/project-serum/serum-dex-ui)
