@@ -6,25 +6,29 @@
 
 [https://docs.solana.com/](https://docs.solana.com/)
 
-### Wallet Adapter API (Sign Transactions)
+### Wallet Adapter API (lib for communicate with web wallet or extension)
 
 [https://github.com/project-serum/sol-wallet-adapter](https://github.com/project-serum/sol-wallet-adapter)
 
-Sample:
+### Connect to Wallet UI samples
 
-[https://github.com/project-serum/oyster-swap/blob/master/src/context/wallet.tsx](https://github.com/project-serum/oyster-swap/blob/master/src/context/wallet.tsx)
+[https://github.com/project-serum/serum-dex-ui](https://github.com/project-serum/serum-dex-ui)
 
-### Add MathWallet Support
+[https://github.com/project-serum/oyster-swap](https://github.com/project-serum/oyster-swap)
 
-SerumSwap Sample
+
+
+### Add MathWallet Related Config
+
+Config Sample
 
 [https://github.com/project-serum/oyster-swap/blob/master/src/wallet-adapters/math/index.tsx](https://github.com/project-serum/oyster-swap/blob/master/src/wallet-adapters/math/index.tsx)
 
-SerumDex Sample
+[https://github.com/project-serum/oyster-swap/blob/master/src/context/wallet.tsx](https://github.com/project-serum/oyster-swap/blob/master/src/context/wallet.tsx)
+
+Changes Sample
 
 [https://github.com/project-serum/serum-dex-ui/pull/63/files](https://github.com/project-serum/serum-dex-ui/pull/63/files)
 
-### Demo Projects
 
-[https://projectserum.com/developer-resources](https://projectserum.com/developer-resources)
 
