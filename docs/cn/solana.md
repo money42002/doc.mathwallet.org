@@ -6,9 +6,13 @@
 
 [https://docs.solana.com/](https://docs.solana.com/)
 
-### 钱包 Adapter API（用于与网页钱包或插件钱包通讯）
+### 钱包 Adapter API（用于与网页钱包或插件钱包通讯的模块）
 
 [https://github.com/project-serum/sol-wallet-adapter](https://github.com/project-serum/sol-wallet-adapter)
+
+### Web3 JS (前端组装交易的模块)
+
+[https://github.com/solana-labs/solana-web3.js](https://github.com/solana-labs/solana-web3.js)
 
 ### 连接钱包 UI 的示例
 
