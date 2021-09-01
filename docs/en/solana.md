@@ -20,17 +20,15 @@
 
 ### Add MathWallet Related Config
 
-Config Sample
+Changes Sample (if you are not using the latest sol-wallet-adapter and ui code)
 
 [https://github.com/project-serum/oyster-swap/blob/master/src/wallet-adapters/math/index.tsx](https://github.com/project-serum/oyster-swap/blob/master/src/wallet-adapters/math/index.tsx)
 
 [https://github.com/project-serum/oyster-swap/blob/master/src/context/wallet.tsx](https://github.com/project-serum/oyster-swap/blob/master/src/context/wallet.tsx)
 
-Changes Sample
-
 [https://github.com/project-serum/serum-dex-ui/pull/63/files](https://github.com/project-serum/serum-dex-ui/pull/63/files)
 
-Common errors in wallet.tsx config
+Common errors in wallet.tsx config (which will cause the wallet cannot inject to the dapp site)
 
 ![mathso](http://qiniu.eth.fm/2021-09-01-mathsol1.jpg)
 
