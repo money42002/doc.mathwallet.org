@@ -1,7 +1,17 @@
-# Okchain DAPP Development Document
+# OKExChain DAPP Development Document
 
 ## Web dApp Development
 
-### MathExtension API (Sign Transactions)
+### Web3 API
 
-[https://github.com/mathwallet/math-okchain-js](https://github.com/mathwallet/math-okchain-js)
+Math Wallet is compatible with web3 API same as metamask.
+
+#### Web3 API official document
+
+[https://github.com/ethereum/wiki/wiki/JavaScript-API](https://github.com/ethereum/wiki/wiki/JavaScript-API)
+
+#### Web3 API Demo Projects
+
+Math Wallet web3 API development and testing sample
+
+[https://github.com/mathwallet/math-ethjs](https://github.com/mathwallet/math-ethjs)
