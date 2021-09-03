@@ -1,6 +1,6 @@
 # ETH DAPP Development Document
 
-## Web dApp Development
+## Web dApp Development (Inside Wallet)
 
 ### Web3 API
 
@@ -16,11 +16,7 @@ Math Wallet web3 API development and testing sample
 
 [https://github.com/mathwallet/math-ethjs](https://github.com/mathwallet/math-ethjs)
 
-#### dApps using Web3 API
 
-[Fomo3D](http://exitscam.me/)
-
-[CryptoKitties](https://www.cryptokitties.co/)
 
 ## Native dApp Development
 
@@ -46,26 +42,14 @@ iOS – [https://github.com/mathwallet/MathWalletSDK-iOS](https://github.com/mat
 
 Android – [https://github.com/mathwallet/MathWalletSDK-Android](https://github.com/mathwallet/MathWalletSDK-Android)
 
-## Web dApp Development
-
-Web dApp within mobile browser can open MathWallet to sign your transaction in a link format.
-
-The format is also based on SimpleWallet Protocol MathWallet version:
-
-[https://github.com/mathwallet/SimpleWallet](https://github.com/mathwallet/SimpleWallet)
-
-Demo & Sample Code：
-
-[http://developer.mathwallet.org/sample12/](http://developer.mathwallet.org/sample12/)
-
-[https://github.com/mathwallet/math-eosjs/tree/master/eos/sample12](https://github.com/mathwallet/math-eosjs/tree/master/eos/sample12)
+Demo - [https://blog.mathwallet.org/?p=3372](https://blog.mathwallet.org/?p=3372)
 
 
-### WalletConnect Protocol
+### WalletConnect Protocol (QR code & Inside Mobile Browser)
 
 WalletConnect is an open protocol for connecting desktop Dapps to mobile Wallets using end-to-end encryption by scanning a QR code.
 
 Document:
 [https://walletconnect.org/](https://walletconnect.org/)
 
-DEMO: [https://zerion.io](https://zerion.io)
+DEMO: [https://blog.mathwallet.org/?p=3361](https://blog.mathwallet.org/?p=3361)
