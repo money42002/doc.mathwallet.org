@@ -13,9 +13,8 @@ copyright: Copyright &copy; 2018 MathWallet
 pages:
     - Home: index.md
     - English:
-        - ETH: en/eth.md
+        - EVM(ETH BSC etc): en/eth.md
         - Polkadot: en/polkadot.md
-        - BSC: en/bsc.md
         - Solana: en/solana.md
         - Filecoin: en/filecoin.md
         - TRON: en/tron.md
@@ -29,9 +28,8 @@ pages:
         - PlatON: en/platon.md
         - More: en/more.md
     - 中文:
-        - ETH: cn/eth.md
+        - EVM(ETH BSC etc): cn/eth.md
         - Polkadot: cn/polkadot.md
-        - BSC: cn/bsc.md
         - Solana: cn/solana.md
         - Filecoin: cn/filecoin.md
         - TRON: cn/tron.md
