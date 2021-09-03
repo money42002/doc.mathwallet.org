@@ -13,7 +13,6 @@ copyright: Copyright &copy; 2018 MathWallet
 pages:
     - Home: index.md
     - English:
-        - BTC: en/btc.md
         - ETH: en/eth.md
         - Polkadot: en/polkadot.md
         - BSC: en/bsc.md
@@ -30,7 +29,6 @@ pages:
         - PlatON: en/platon.md
         - More: en/more.md
     - 中文:
-        - BTC: cn/btc.md
         - ETH: cn/eth.md
         - Polkadot: cn/polkadot.md
         - BSC: cn/bsc.md
