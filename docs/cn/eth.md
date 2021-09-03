@@ -1,6 +1,6 @@
 # 以太坊 DAPP 开发文档
 
-## H5 DAPP 开发
+## H5 DAPP 开发 (钱包内浏览器打开)
 
 ### Web3 API
 
@@ -16,11 +16,7 @@
 
 [https://github.com/mathwallet/math-ethjs](https://github.com/mathwallet/math-ethjs)
 
-#### 使用 Web3 接口的应用
 
-[Fomo3D](http://exitscam.me/)
-
-[CryptoKitties](https://www.cryptokitties.co/)
 
 ## Native DAPP 开发
 
@@ -34,7 +30,6 @@ Native APP 跳转麦子钱包支付或合约签名。
 
 [https://github.com/mathwallet/SimpleWallet](https://github.com/mathwallet/SimpleWallet)
 
-注意：transferReq.blockchain 参数请传 ethereum
 
 #### SimpleWallet API 开发示例
 
@@ -44,17 +39,7 @@ iOS – [https://github.com/mathwallet/MathWalletSDK-iOS](https://github.com/mat
 
 Android – [https://github.com/mathwallet/MathWalletSDK-Android](https://github.com/mathwallet/MathWalletSDK-Android)
 
-## 网页 DAPP 打开麦子钱包支付
-
-支持手机浏览器网页通过链接的形式打开麦子钱包进行支付和合约签名。接口基于 SimpleWallet 协议麦子拓展版本：
-
-[https://github.com/mathwallet/SimpleWallet](https://github.com/mathwallet/SimpleWallet)
-
-示例DEMO和代码：
-
-[http://developer.mathwallet.org/sample12/](http://developer.mathwallet.org/sample12/)
-
-[https://github.com/mathwallet/math-eosjs/tree/master/eos/sample12](https://github.com/mathwallet/math-eosjs/tree/master/eos/sample12)
+Demo - [https://blog.mathwallet.org/?p=3372](https://blog.mathwallet.org/?p=3372)
 
 
 ### 使用 WalletConnect 协议
@@ -63,4 +48,4 @@ WalletConnect 允许网页应用通过 APP 扫码进行签名操作，具体开�
 
 [https://walletconnect.org/](https://walletconnect.org/)
 
-示例DEMO: [https://zerion.io](https://zerion.io)
+Demo: [https://blog.mathwallet.org/?p=3361](https://blog.mathwallet.org/?p=3361)
