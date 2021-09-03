@@ -15,68 +15,34 @@ pages:
     - English:
         - BTC: en/btc.md
         - ETH: en/eth.md
-        - EOS: en/eos.md
         - Polkadot: en/polkadot.md
-        - Filecoin: en/filecoin.md
-        - Kusama: en/kusama.md
-        - TRON: en/tron.md
-        - Binance: en/binance.md
         - BSC: en/bsc.md
         - Solana: en/solana.md
-        - OKchain: en/okchain.md
+        - Filecoin: en/filecoin.md
+        - TRON: en/tron.md
         - Cosmos: en/cosmos.md
-        - Nervos: en/nervos.md
+        - BinanceChain: en/binance.md
         - Near: en/near.md
+        - EOS: en/eos.md
         - Terra: en/terra.md
-        - Kava: en/kava.md
-        - IRISnet: en/iris.md
-        - Ontology: en/ont.md
-        - ChainX: en/chainx.md
-        - EOSC: en/eosforce.md
-        - YAS: en/yas.md
-        - Harmony: en/harmony.md
-        - SecretNetwork: en/secret.md
-        - RSK: en/rsk.md
-        - ENU: en/enu.md
-        - BOS: en/bos.md
-        - Telos: en/telos.md
-        - NEO: en/neo.md
-        - VeChain: en/vechain.md
-        - CoinEx: en/coinex.md
+        - Nervos: en/nervos.md
         - Conflux: en/conflux.md
         - PlatON: en/platon.md
         - More: en/more.md
     - 中文:
         - BTC: cn/btc.md
         - ETH: cn/eth.md
-        - EOS: cn/eos.md
         - Polkadot: cn/polkadot.md
-        - Filecoin: cn/filecoin.md
-        - Kusama: cn/kusama.md
-        - TRON: cn/tron.md
-        - Binance: cn/binance.md
         - BSC: cn/bsc.md
         - Solana: cn/solana.md
-        - OKchain: cn/okchain.md
+        - Filecoin: cn/filecoin.md
+        - TRON: cn/tron.md
         - Cosmos: cn/cosmos.md
-        - Nervos: cn/nervos.md
+        - BinanceChain: cn/binance.md
         - Near: cn/near.md
+        - EOS: cn/eos.md
         - Terra: cn/terra.md
-        - Kava: cn/kava.md
-        - IRISnet: cn/iris.md
-        - Ontology: cn/ont.md
-        - ChainX: cn/chainx.md
-        - EOSC: cn/eosforce.md
-        - YAS: cn/yas.md
-        - Harmony: cn/harmony.md
-        - SecretNetwork: cn/secret.md
-        - RSK: cn/rsk.md
-        - ENU: cn/enu.md
-        - BOS: cn/bos.md
-        - Telos: cn/telos.md
-        - NEO: cn/neo.md
-        - VeChain: cn/vechain.md
-        - CoinEx: cn/coinex.md
+        - Nervos: cn/nervos.md
         - Conflux: cn/conflux.md
         - PlatON: cn/platon.md
         - 更多问题: cn/more.md
