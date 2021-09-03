@@ -32,7 +32,7 @@ To use this API, please read the API doc:
 
 [https://github.com/mathwallet/SimpleWallet](https://github.com/mathwallet/SimpleWallet)
 
-Note: transferReq.blockchain please use 'ethereum'
+
 
 #### SimpleWallet API Demo Projects
 
