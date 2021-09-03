@@ -52,4 +52,4 @@ WalletConnect is an open protocol for connecting desktop Dapps to mobile Wallets
 Document:
 [https://walletconnect.org/](https://walletconnect.org/)
 
-DEMO: [https://blog.mathwallet.org/?p=3361](https://blog.mathwallet.org/?p=3361)
+Demo: [https://blog.mathwallet.org/?p=3361](https://blog.mathwallet.org/?p=3361)
