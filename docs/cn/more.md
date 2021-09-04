@@ -32,7 +32,7 @@ Solana 链, 检查 solana.isMathWallet = true
 
 ### Q: 如何在麦子钱包是否支持测试链？
 
-不支持，我们建议您在桌面端完成测试环境的测试，这样效率更高一些。
+支持，需要下载MathWallet5版本，并自定义网络
 
 ### Q：如何让 DAPP 在麦子钱包中【横屏】打开？
 
@@ -77,29 +77,9 @@ var getNavLanguage = function(){
 }
 ```
 
-### Q: 如何通过网页打开麦子钱包，并跳转到 DAPP 页面？
 
-你可以使用 Deeplink，示例URL代码如下，修改 value 为你希望跳转的地址即可：
+### Q: 如何通过Deeplink打开麦子钱包，跳转到 DAPP 页面，完成操作后回调？
 
-```
-mathwallet://mathwallet.org?action=link&value=http://dapp.mathwallet.xyz/polkadot/#/kusama
-```
+你可以使用 Deeplink，示例URL代码如下
 
-
-### Q: 如何通过APP打开麦子钱包，跳转到 DAPP 页面，完成操作后回调？
-
-你可以使用 Deeplink，示例URL代码如下，修改 dappUrl 为你希望跳转的地址和 blockchain 参数即可：
-
-```
-mathwallet://mathwallet.org?param={"action":"openUrl","protocol":"SimpleWallet","dappUrl":"https:\/\/gateway.eosdt.com\/","dappName":"MathWalletSDK-Demos","blockchain":"eosio","version":"1.0","callback":"appABC:\/\/abc.com?action=openUrl","desc":"","dappIcon":""}
-```
-
-目前这种APP间跳转仅支持 blockchain: eosio, ethereum, tron
-
-callback 会在支付成功后跳转并带上相应参数，例如：
-appABC://abc.com?action=openUrl&result=1
-
-result 的返回值：0 cancel, 1 success, 2 fail
-
-如果有交易，则会加上 txID
-appABC://abc.com?action=openUrl&transfer=1&txID=xxx
+https://blog.mathwallet.org/?p=3389
