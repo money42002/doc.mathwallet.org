@@ -32,7 +32,7 @@ Please read: [http://blog.mathwallet.org/?p=154](http://blog.mathwallet.org/?p=1
 
 ### Q. Does Math Wallet support testnet chain environment and account?
 
-No, we do not support testnet.
+Yes. You will need MathWallet5 and add testnet yourself.
 
 ### Q. How to open a dApp in landscape screen orientation?
 
@@ -47,9 +47,6 @@ There are 2 ways:
 You can use math-js-sdk: [https://github.com/mathwallet/math-js-sdk](https://github.com/mathwallet/math-js-sdk), issue the fullScreen(1) function.
 And we suggest you add a 'Close' button in your dApp, which need to issue fullScreen(0) or close() function.
 
-### Q. How to get DeviceID through Math SDK?
-
-You can use math-js-sdk: [https://github.com/mathwallet/math-js-sdk](https://github.com/mathwallet/math-js-sdk), issue the getAppInfo() function.
 
 ### Q. How to get the current language in the dApp?
 
@@ -79,27 +76,6 @@ var getNavLanguage = function(){
 ### Q. Does MathWallet support DeepLink?
 
 
-Yes. Sample URL below, change the value param as you need:
+Yes. Sample:
 
-```
-mathwallet://mathwallet.org?action=link&value=http://dapp.mathwallet.xyz/polkadot/#/kusama
-```
-
-
-### Q. Does MathWallet support APP to APP DeepLink?
-
-Yes. Sample URL below, change the dappUrl param as you need and the blockchain param as well:
-
-```
-mathwallet://mathwallet.org?param={"action":"openUrl","protocol":"SimpleWallet","dappUrl":"https:\/\/gateway.eosdt.com\/","dappName":"MathWalletSDK-Demos","blockchain":"eosio","version":"1.0","callback":"mathwalletdemos:\/\/mathwalletsdk?action=openUrl","desc":"","dappIcon":""}
-```
-
-Currently this methods only supports blockchain: eosio, ethereum, tron
-
-callback is the URL after MathWallet completed the transaction will open, such as：
-appABC://abc.com?action=openUrl&result=1
-
-result：0 cancel, 1 success, 2 fail
-
-If there is a transaction, it will add txID
-appABC://abc.com?action=openUrl&transfer=1&txID=xxx
+https://blog.mathwallet.org/?p=3389
