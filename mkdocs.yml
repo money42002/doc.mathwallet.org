@@ -14,30 +14,30 @@ pages:
     - Home: index.md
     - English:
         - EVM(ETH BSC etc): en/eth.md
-        - Polkadot: en/polkadot.md
+        - Substrate(Polkadot etc): en/polkadot.md
         - Solana: en/solana.md
+        - CosmosSDK: en/cosmos.md
         - Filecoin: en/filecoin.md
         - TRON: en/tron.md
-        - Cosmos: en/cosmos.md
+        - Terra: en/terra.md
         - BinanceChain: en/binance.md
         - Near: en/near.md
         - EOS: en/eos.md
-        - Terra: en/terra.md
         - Nervos: en/nervos.md
         - Conflux: en/conflux.md
         - PlatON: en/platon.md
         - More: en/more.md
     - 中文:
         - EVM(ETH BSC etc): cn/eth.md
-        - Polkadot: cn/polkadot.md
+        - Substrate(Polkadot etc): cn/polkadot.md
         - Solana: cn/solana.md
+        - CosmosSDK: cn/cosmos.md
         - Filecoin: cn/filecoin.md
         - TRON: cn/tron.md
-        - Cosmos: cn/cosmos.md
+        - Terra: cn/terra.md
         - BinanceChain: cn/binance.md
         - Near: cn/near.md
         - EOS: cn/eos.md
-        - Terra: cn/terra.md
         - Nervos: cn/nervos.md
         - Conflux: cn/conflux.md
         - PlatON: cn/platon.md
