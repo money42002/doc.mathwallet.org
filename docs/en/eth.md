@@ -53,3 +53,18 @@ Document:
 [https://walletconnect.org/](https://walletconnect.org/)
 
 Demo: [https://blog.mathwallet.org/?p=3361](https://blog.mathwallet.org/?p=3361)
+
+
+### Q. How to know whether the address is opened by the dapp browser of Math Wallet ?
+
+There are 2 ways:
+
+1 Lookup Http Header:
+
+If there’s “MathWallet” in User-Agent in HTTP Header, then it is visited by the browser of Math Wallet. (User-Agent: MathWallet)
+
+2 Lookup injected js:
+
+For ETH(BSC/Heco/Polygon and other EVM based), check ethereum.isMathWallet = true
+
+![eth](http://qiniu.eth.fm/2021-07-28-eth.png)
