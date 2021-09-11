@@ -40,3 +40,16 @@ Common errors in wallet.tsx config (which will cause the wallet cannot inject to
 
 
 
+### Q. How to know whether the address is opened by the dapp browser of Math Wallet ?
+
+There are 2 ways:
+
+1 Lookup Http Header:
+
+If there’s “MathWallet” in User-Agent in HTTP Header, then it is visited by the browser of Math Wallet. (User-Agent: MathWallet)
+
+2 Lookup injected js:
+
+For Solana, check solana.isMathWallet = true
+
+![solana](http://qiniu.eth.fm/2021-07-28-solana.png)
