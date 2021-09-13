@@ -1,5 +1,36 @@
 # Solana DAPP Development Document
 
+# Detecting the Provider
+
+MathWallet will inject an object called`solana` on the [window](https://developer.mozilla.org/en-US/docs/Web/API/Window) object of any web application the user visits.
+
+To detect if a browser extension using this API is installed, you can check for the existence of the `solana` object.
+
+To make it easy to detect MathWallet specifically, the extension adds an additional `isMathWallet` flag.
+
+![solana](http://qiniu.eth.fm/2021-07-28-solana.png)
+
+```javascript
+const isMathWalletInstalled = window.solana && window.solana.isMathWallet
+```
+
+If MathWallet is not installed, we recommend you redirect your users to [our website](https://mathwallet.org/). Altogether, this may look like the following.
+
+```javascript
+const getProvider = () => {
+  if ("solana" in window) {
+    const provider = window.solana;
+    if (provider.isMathWallet) {
+      return provider;
+    }
+  }
+  window.open("https://mathwallet.org/", "_blank");
+};
+```
+
+
+
+
 ## Web dApp Development
 
 ### RPC document
@@ -40,16 +71,4 @@ Common errors in wallet.tsx config (which will cause the wallet cannot inject to
 
 
 
-### Q. How to know whether the address is opened by the dapp browser of Math Wallet ?
 
-There are 2 ways:
-
-1 Lookup Http Header:
-
-If there’s “MathWallet” in User-Agent in HTTP Header, then it is visited by the browser of Math Wallet. (User-Agent: MathWallet)
-
-2 Lookup injected js:
-
-For Solana, check solana.isMathWallet = true
-
-![solana](http://qiniu.eth.fm/2021-07-28-solana.png)
