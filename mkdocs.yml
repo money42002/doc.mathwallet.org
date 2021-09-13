@@ -27,21 +27,6 @@ pages:
         - Conflux: en/conflux.md
         - PlatON: en/platon.md
         - More: en/more.md
-    - 中文:
-        - EVM(ETH BSC etc): cn/eth.md
-        - Substrate(Polkadot etc): cn/polkadot.md
-        - Solana: cn/solana.md
-        - CosmosSDK: cn/cosmos.md
-        - Filecoin: cn/filecoin.md
-        - TRON: cn/tron.md
-        - Terra: cn/terra.md
-        - BinanceChain: cn/binance.md
-        - Near: cn/near.md
-        - EOS: cn/eos.md
-        - Nervos: cn/nervos.md
-        - Conflux: cn/conflux.md
-        - PlatON: cn/platon.md
-        - 更多问题: cn/more.md
 
 plugins:
     - search
