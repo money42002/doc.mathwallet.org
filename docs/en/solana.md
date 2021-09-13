@@ -59,7 +59,7 @@ Once the web application is connected, it will be able to read the connected acc
 
 ```javascript
 window.solana.publicKey.toString()
-// 26qv4GCcx98RihuK3c4T6ozB3J7L6VwCuFVc7Ta2A3Uo 
+// 2TE8zHirQSQ44ojJvnw9qBs5rjWFa5YJEF1EYyyutjbS 
 window.solana.isConnected
 // true
 window.solana.autoApprove
