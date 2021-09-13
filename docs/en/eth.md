@@ -92,6 +92,8 @@ const messageHash = web3.sha3('Owner of punk #8888');
 const signature = await web3.eth.personal.sign(messageHash, web3.eth.defaultAccount);
 ```
 
+More details on this [page](https://www.codementor.io/@yosriady/signing-and-verifying-ethereum-signatures-vhe8ro3h6)
+
 ## Integrating (Native dApp)
 
 ### SimpleWallet API
