@@ -1,6 +1,8 @@
-# Solana Integrating
+# Solana
 
-## Detecting the Provider
+## Integrating
+
+### Detecting the Provider
 
 MathWallet will inject an object called`solana` on the [window](https://developer.mozilla.org/en-US/docs/Web/API/Window) object of any web application the user visits.
 
@@ -28,7 +30,7 @@ const getProvider = () => {
 };
 ```
 
-## Establishing a Connection
+### Establishing a Connection
 
 In order to start interacting with MathWallet you must first establish a connection. This connection request will prompt the user for permission to share their public key, and indicate that they are willing to interact further.
 
@@ -64,7 +66,7 @@ window.solana.autoApprove
 // true or false
 ```
 
-## Disconnecting
+### Disconnecting
 
 Disconnecting is similar to connecting, however, it is possible for the disconnection to originate from the wallet.
 
@@ -72,7 +74,7 @@ Disconnecting is similar to connecting, however, it is possible for the disconne
 window.solana.disconnect();
 ```
 
-## Sending a Transaction
+### Sending a Transaction
 
 Once the web application is connected to MathWallet, it can send transactions on behalf of the user, with the user's permission.
 
@@ -92,7 +94,7 @@ const signedTransaction = await window.solana.signTransaction(transaction);
 const signature = await connection.sendRawTransaction(signedTransaction.serialize());
 ```
 
-## Signing Multiple Transactions
+### Signing Multiple Transactions
 
 It is also possible to sign and send multiple transactions at once. This is exposed through the `signAllTransactions` method on the provider.
 
@@ -100,7 +102,7 @@ It is also possible to sign and send multiple transactions at once. This is expo
 const signedTransactions = await window.solana.signAllTransactions(transactions);
 ```
 
-## Signing a Message
+### Signing a Message
 
 When the web application is connected to MathWallet, it can also request that the user signs a given message. 
 
