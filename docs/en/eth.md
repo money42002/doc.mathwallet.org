@@ -94,11 +94,21 @@ const signature = await web3.eth.personal.sign(messageHash, web3.eth.defaultAcco
 
 More details on this [page](https://www.codementor.io/@yosriady/signing-and-verifying-ethereum-signatures-vhe8ro3h6)
 
+### WalletConnect Protocol (QR code)
+
+WalletConnect is an open protocol for connecting desktop Dapps to mobile Wallets using end-to-end encryption by scanning a QR code.
+
+Document:
+[https://walletconnect.org/](https://walletconnect.org/)
+
+Demo: [https://blog.mathwallet.org/?p=3361](https://blog.mathwallet.org/?p=3361)
+
+
 ## Integrating (Native dApp)
 
 ### SimpleWallet API
 
-If your DAPP is based on native development or browser based, you could open MathWallet to sign your transaction through SimpleWallet protocol or use Math Wallet to scan and authorize.
+If your DAPP is a native app (such as game app), you could open MathWallet to sign your transaction through SimpleWallet protocol.
 
 MathWallet SimpleWallet Protocol supports:
 
@@ -117,15 +127,6 @@ iOS – [https://github.com/mathwallet/MathWalletSDK-iOS](https://github.com/mat
 Android – [https://github.com/mathwallet/MathWalletSDK-Android](https://github.com/mathwallet/MathWalletSDK-Android)
 
 Demo - [https://blog.mathwallet.org/?p=3372](https://blog.mathwallet.org/?p=3372)
-
-### WalletConnect Protocol (QR code & Inside Mobile Browser)
-
-WalletConnect is an open protocol for connecting desktop Dapps to mobile Wallets using end-to-end encryption by scanning a QR code.
-
-Document:
-[https://walletconnect.org/](https://walletconnect.org/)
-
-Demo: [https://blog.mathwallet.org/?p=3361](https://blog.mathwallet.org/?p=3361)
 
 
 ## More Resources
