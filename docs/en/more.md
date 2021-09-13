@@ -78,4 +78,4 @@ var getNavLanguage = function(){
 
 Yes. Sample:
 
-https://blog.mathwallet.org/?p=3389
+[https://blog.mathwallet.org/?p=3389](https://blog.mathwallet.org/?p=3389)
