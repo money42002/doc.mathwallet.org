@@ -136,7 +136,7 @@ Front-end code can reference:
 
 ### Add MathWallet Related Config
 
-If you are not using the sol-wallet-adapter which allows your dapp connects to multiple wallets, here are the changes need for MathWallet:
+If you are using the sol-wallet-adapter which allows your dapp connects to multiple wallets, here are the changes need for MathWallet:
 
 Sample 1
 
