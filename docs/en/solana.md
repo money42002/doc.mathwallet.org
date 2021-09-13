@@ -32,8 +32,6 @@ const getProvider = () => {
 
 In order to start interacting with MathWallet you must first establish a connection. This connection request will prompt the user for permission to share their public key, and indicate that they are willing to interact further.
 
-### Connecting
-
 ```javascript
 window.solana.getAccount();
 ```
