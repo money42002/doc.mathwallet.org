@@ -32,7 +32,7 @@ Please read: [http://blog.mathwallet.org/?p=154](http://blog.mathwallet.org/?p=1
 
 ### Q. Does Math Wallet support testnet chain environment and account?
 
-Yes. You will need MathWallet5 and add testnet yourself.
+Yes. You will need MathWallet5 or Math Extension Wallet and add testnet as customized network.
 
 ### Q. How to open a dApp in landscape screen orientation?
 
@@ -41,12 +41,6 @@ There are 2 ways:
 1 Math Wallet team can help you config your dApp opened in landscape mode by default, you just need to inform us.
 
 2 You can use math-js-sdk: [https://github.com/mathwallet/math-js-sdk](https://github.com/mathwallet/math-js-sdk), issue the orientation() function.
-
-### Q. How to open a dApp in full screen mode?
-
-You can use math-js-sdk: [https://github.com/mathwallet/math-js-sdk](https://github.com/mathwallet/math-js-sdk), issue the fullScreen(1) function.
-And we suggest you add a 'Close' button in your dApp, which need to issue fullScreen(0) or close() function.
-
 
 ### Q. How to get the current language in the dApp?
 
