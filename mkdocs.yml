@@ -12,19 +12,20 @@ copyright: Copyright &copy; 2018 MathWallet
 
 pages:
     - Introduction: index.md
-    - EVM(ETH BSC etc): en/eth.md
-    - Substrate(Polkadot etc): en/polkadot.md
-    - Solana: en/solana.md
-    - CosmosSDK: en/cosmos.md
-    - Filecoin: en/filecoin.md
-    - TRON: en/tron.md
-    - Terra: en/terra.md
-    - BinanceChain: en/binance.md
-    - Near: en/near.md
-    - EOS: en/eos.md
-    - Nervos: en/nervos.md
-    - Conflux: en/conflux.md
-    - PlatON: en/platon.md
+    - Blockchain:
+        - EVM(ETH BSC etc): en/eth.md
+        - Substrate(Polkadot etc): en/polkadot.md
+        - Solana: en/solana.md
+        - CosmosSDK: en/cosmos.md
+        - Filecoin: en/filecoin.md
+        - TRON: en/tron.md
+        - Terra: en/terra.md
+        - BinanceChain: en/binance.md
+        - Near: en/near.md
+        - EOS: en/eos.md
+        - Nervos: en/nervos.md
+        - Conflux: en/conflux.md
+        - PlatON: en/platon.md
     - Resources:
         - Logos&Assets: 'https://blog.mathwallet.org/?p=396'
         - FAQ: en/more.md
