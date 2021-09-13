@@ -2,9 +2,11 @@
 
 This applies to all EVM based blockchains, including Ethereum, BSC, Arbitrum, Polygon, Fantom, Moonbeam, MathChain L2, etc
 
-The only difference for these chains is the ChainID which can be query here:
+The only difference for these chains is the ChainID & RPC which can be query here:
 
 [https://chainlist.org/](https://chainlist.org/)
+
+[https://chainid.network/chains.json](https://chainid.network/chains.json)
 
 ## Integrating (Web)
 
@@ -90,7 +92,7 @@ const messageHash = web3.sha3('Owner of punk #8888');
 const signature = await web3.eth.personal.sign(messageHash, web3.eth.defaultAccount);
 ```
 
-## Native dApp Development
+## Integrating (Native dApp)
 
 ### SimpleWallet API
 
