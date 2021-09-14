@@ -111,7 +111,7 @@ Sample by MathWallet (Login & Sign Transaction)
 
 [https://github.com/mathwallet/math-substratejs](https://github.com/mathwallet/math-substratejs)
 
-Samples by PolkaProject (Login & Sign Message)
+Sample by PolkaProject (Login & Sign Message)
 
 [https://github.com/BlockchainProjectTeam/PolkaProject-frontend](https://github.com/BlockchainProjectTeam/PolkaProject-frontend)
 
