@@ -2,7 +2,7 @@
 
 This applies to all EVM based blockchains, including Ethereum, BSC, Arbitrum, Polygon, Fantom, Moonbeam, MathChain L2, etc
 
-The only difference for these chains is the ChainID & RPC which can be query here:
+The differences for these chains are the ChainID & RPC which can be found here:
 
 [https://chainlist.org/](https://chainlist.org/)
 
