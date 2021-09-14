@@ -2,9 +2,9 @@
 
 This applies to all Substrate based blockchains, including Polkadot, Kusama, Acala, Statemine, MathChain L1, etc
 
-The only differences for these chains are the ChainID and Node Endpoint which can be found here:
+The differences for these chains are the SS58 address prefix, Genesis Hash and Node Endpoint which can be found here:
 
-[https://polkadot.js.org/apps/](https://polkadot.js.org/apps/)
+[https://polkadot.js.org/apps/#/settings/metadata](https://polkadot.js.org/apps/#/settings/metadata)
 
 ## Integrating (Web)
 
