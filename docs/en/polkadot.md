@@ -2,7 +2,7 @@
 
 This applies to all Substrate based blockchains, including Polkadot, Kusama, Acala, Statemine, MathChain L1, etc
 
-The only difference for these chains is the ChainID which can be query here:
+The only differences for these chains are the ChainID and Node Endpoint which can be found here:
 
 [https://polkadot.js.org/apps/](https://polkadot.js.org/apps/)
 
