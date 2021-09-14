@@ -14,12 +14,12 @@ MathWallet will inject an object called `injectedWeb3` on the [window](https://d
 
 To detect if a browser extension using this API is installed, you can check for the existence of the `injectedWeb3` object.
 
-To make it easy to detect MathWallet specifically, the extension adds an additional `mathWallet` flag.
+To make it easy to detect MathWallet specifically, the extension adds an additional `mathwallet` flag.
 
 ![math](http://qiniu.eth.fm/2021-07-28-dot.png)
 
 ```javascript
-const isMathWalletInstalled = window.injectedWeb3 && window.injectedWeb3.mathWallet
+const isMathWalletInstalled = window.injectedWeb3 && window.injectedWeb3.mathwallet
 ```
 
 If MathWallet is not installed, we recommend you redirect your users to [our website](https://mathwallet.org/).
