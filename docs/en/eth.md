@@ -122,9 +122,9 @@ To use this API, please read the API doc:
 
 SDK example developed by Math Wallet team:
 
-iOS – [https://github.com/mathwallet/MathWalletSDK-iOS](https://github.com/mathwallet/MathWalletSDK-iOS)
+iOS – [https://github.com/mathwallet/MathWallet5SDK-iOS](https://github.com/mathwallet/MathWallet5SDK-iOS)
 
-Android – [https://github.com/mathwallet/MathWalletSDK-Android](https://github.com/mathwallet/MathWalletSDK-Android)
+Android – [https://github.com/mathwallet/MathWallet5SDK-Android](https://github.com/mathwallet/MathWallet5SDK-Android)
 
 Demo - [https://blog.mathwallet.org/?p=3372](https://blog.mathwallet.org/?p=3372)
 
