@@ -174,4 +174,7 @@ Submit to MathWallet
 
 [https://m.maiziqianbao.net/submit/token?type=Solana](https://m.maiziqianbao.net/submit/token?type=Solana)
 
+### Non-Fungible Tokens (NFT)
 
+Metaplex NFT Stardard
+[https://docs.metaplex.com/nft-standard](https://docs.metaplex.com/nft-standard)
