@@ -177,4 +177,5 @@ Submit to MathWallet
 ### Non-Fungible Tokens (NFT)
 
 Metaplex NFT Stardard
+
 [https://docs.metaplex.com/nft-standard](https://docs.metaplex.com/nft-standard)
