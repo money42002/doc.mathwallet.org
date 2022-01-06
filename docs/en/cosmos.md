@@ -2,22 +2,12 @@
 
 ## Web dApp Development
 
-### Swagger User Guide (Data Query and Post)
-
-[https://cosmos.network/rpc/](https://cosmos.network/rpc/)
-
 ### MathExtension API (Sign Transactions)
 
-[https://github.com/mathwallet/math-cosmosjs](https://github.com/mathwallet/math-cosmosjs)
+[https://github.com/mathwallet/math-cosmosjs/tree/v2](https://github.com/mathwallet/math-cosmosjs/tree/v2)
 
 #### dApps using dAPI
 
-[Cosmos Staking Tool](https://m.medishares.net/cosmos/delegate)
-
 Demo & Sample Code：
 
-[http://developer.mathwallet.org/sample14/](http://developer.mathwallet.org/sample14/)
-
-[https://github.com/mathwallet/math-cosmosjs/tree/master/sample](https://github.com/mathwallet/math-cosmosjs/tree/master/sample)
-
-[https://github.com/mathwallet/math-cosmos-web-wallet](https://github.com/mathwallet/math-cosmos-web-wallet)
+[https://gist.github.com/webmaster128/8444d42a7eceeda2544c8a59fbd7e1d9](https://gist.github.com/webmaster128/8444d42a7eceeda2544c8a59fbd7e1d9)
