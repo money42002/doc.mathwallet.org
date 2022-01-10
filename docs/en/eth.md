@@ -145,9 +145,13 @@ Submit to MathWallet
 
 [https://m.maiziqianbao.net/submit/token?type=](https://m.maiziqianbao.net/submit/token?type=)
 
-### Onboard
+### Other Libraries
 
-Open-source JavaScript library to onboard users to Ethereum apps
+Onboard - Open-source JavaScript library to onboard users to Ethereum apps
 
 [https://docs.blocknative.com/onboard](https://docs.blocknative.com/onboard)
+
+Web3Modal - A single Web3 / Ethereum provider solution for all Wallets
+
+[https://github.com/Web3Modal/web3modal](https://github.com/Web3Modal/web3modal)
 
