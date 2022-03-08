@@ -16,6 +16,7 @@ pages:
         - EVM(ETH BSC etc): en/eth.md
         - Substrate(Polkadot etc): en/polkadot.md
         - Solana: en/solana.md
+        - Arweave: en/ar.md
         - CosmosSDK: en/cosmos.md
         - Filecoin: en/filecoin.md
         - TRON: en/tron.md
@@ -24,8 +25,6 @@ pages:
         - Near: en/near.md
         - EOS: en/eos.md
         - Nervos: en/nervos.md
-        - Conflux: en/conflux.md
-        - PlatON: en/platon.md
     - Resources:
         - Logos&Assets: 'https://blog.mathwallet.org/?p=396'
         - FAQ: en/more.md
