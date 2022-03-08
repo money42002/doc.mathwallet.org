@@ -16,7 +16,7 @@ If MathWallet is not installed, we recommend you redirect your users to [our web
 
 ### ArConnect Compatibility
 
-MathWallet Arweave wallet is compatible the ArConnect API which support dapp connect / disconnect / sign transaction etc.
+MathWallet Arweave wallet is compatible with the ArConnect API which support dapp connect / disconnect / sign transaction etc.
 
 Details:
 
