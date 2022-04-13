@@ -13,7 +13,7 @@ copyright: Copyright &copy; 2018 MathWallet
 pages:
     - Introduction: index.md
     - Blockchain:
-        - EVM(ETH BSC etc): en/eth.md
+        - EVM(ETH BNB etc): en/eth.md
         - Substrate(Polkadot etc): en/polkadot.md
         - Solana: en/solana.md
         - Arweave: en/ar.md
