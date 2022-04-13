@@ -57,7 +57,7 @@ In order to send a transaction, the web application must:
 * Have it be signed by the user's MathWallet.
 * Send it to a RPC node for processing.
 
-For more information about the nature of transactions on Ethereum, it is recommended to review the `web3js` [docs](https://web3js.readthedocs.io/) as well as the [Metamask docs](https://docs.metamask.io/guide/sending-transactions.html#example).
+For more information about the nature of transactions on Ethereum, it is recommended to review the `ethers` [docs](https://www.npmjs.com/package/ethers) or `web3js` [docs](https://www.npmjs.com/package/web3)
 
 ```javascript
 const transactionParameters = {
