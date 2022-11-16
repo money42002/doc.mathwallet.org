@@ -10,7 +10,7 @@ dev_addr: 0.0.0.0:8000
 
 copyright: Copyright &copy; 2018 MathWallet
 
-pages:
+nav:
     - Introduction: index.md
     - Blockchain:
         - EVM(ETH BNB etc): en/eth.md
