@@ -15,13 +15,15 @@ pages:
     - Blockchain:
         - EVM(ETH BNB etc): en/eth.md
         - Substrate(Polkadot etc): en/polkadot.md
+        - Aptos: en/aptos.md
         - Solana: en/solana.md
         - Arweave: en/ar.md
         - CosmosSDK: en/cosmos.md
+        - Tezos: en/tezos.md
         - Filecoin: en/filecoin.md
         - TRON: en/tron.md
         - Terra: en/terra.md
-        - BinanceChain: en/binance.md
+        - BinanceBeaconChain: en/binance.md
         - Near: en/near.md
         - EOS: en/eos.md
         - Nervos: en/nervos.md
